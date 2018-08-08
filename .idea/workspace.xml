@@ -1,0 +1,691 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f51183e7-566b-45c7-9ac8-be1fd1120f55" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/KCSWEB/public/Project/Vistienos karis.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KCSWEB/public/Project/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KCSWEB/public/Project/jautiena.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KCSWEB/public/Project/kalakutiena.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KCSWEB/public/Project/kiauliena.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KCSWEB/public/Project/kiaulienaKinietiskai.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KCSWEB/public/Project/makaronai.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KCSWEB/public/Project/vSuAnanasais.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KCSWEB/public/Project/vTacos.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KCSWEB/public/Project/vegetariski.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KCSWEB/public/Project/vistSuGriet.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KCSWEB/public/Project/vistiena.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KCSWEB/public/Project/vistienosSuktinukai.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KCSWEB/public/Project/zuvis.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KCSWEB/public/css/CSSreset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KCSWEB/public/css/animcija.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KCSWEB/public/css/bordersexample.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KCSWEB/public/css/chess.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KCSWEB/public/css/firstCSS.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KCSWEB/public/css/pozisijos.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KCSWEB/public/css/project.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KCSWEB/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KCSWEB/public/javascript/matematika.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KCSWEB/public/javascript/paveiksliukas.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KCSWEB/public/javascript/skaiciuokle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KCSWEB/public/kontaktai.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KCSWEB/public/portfolio.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KCSWEB/public/portfolio/animacija.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KCSWEB/public/portfolio/bootstrap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KCSWEB/public/portfolio/borders.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KCSWEB/public/portfolio/chessBoard.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KCSWEB/public/portfolio/pozicijos.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KCSWEB/public/portfolio/smile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KCSWEB/public/portfolio/test.html" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1206006250">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="13" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.39" value="1" />
+          <entry key="project.open.time.42" value="1" />
+          <entry key="project.open.time.43" value="2" />
+          <entry key="project.open.time.44" value="2" />
+          <entry key="project.open.time.48" value="2" />
+          <entry key="project.open.time.49" value="1" />
+          <entry key="project.open.time.5" value="3" />
+          <entry key="project.open.time.50" value="1" />
+          <entry key="project.open.time.61" value="1" />
+          <entry key="project.opened" value="15" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="WebTask" value="1" />
+          <entry key="css" value="20" />
+          <entry key="gif" value="1" />
+          <entry key="html" value="73" />
+          <entry key="js" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="20" />
+          <entry key="HTML" value="73" />
+          <entry key="Image" value="1" />
+          <entry key="JavaScript" value="6" />
+          <entry key="PLAIN_TEXT" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="WebTask" value="814" />
+          <entry key="css" value="2526" />
+          <entry key="html" value="3796" />
+          <entry key="js" value="648" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="2526" />
+          <entry key="HTML" value="3796" />
+          <entry key="JavaScript" value="648" />
+          <entry key="PLAIN_TEXT" value="814" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/KCSWEB/public/Project/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/KCSWEB/public/Project/vistiena.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="30" column="24" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/KCSWEB/public/Project/vTacos.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/KCSWEB/public/Project/makaronai.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/KCSWEB/public/css/project.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/KCSWEB/public/portfolio/chessBoard.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="680">
+              <caret line="40" column="28" selection-start-line="40" selection-start-column="28" selection-end-line="40" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/KCSWEB/public/javascript/paveiksliukas.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/KCSWEB" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/FirstTask.html" />
+        <option value="$PROJECT_DIR$/KCSWEB/WebFirst.html" />
+        <option value="$PROJECT_DIR$/WebTask" />
+        <option value="$PROJECT_DIR$/KCSWEB/public/WebTask.html" />
+        <option value="$PROJECT_DIR$/KCSWEB/public/WebFirst.html" />
+        <option value="$PROJECT_DIR$/KCSWEB/public/CSS/CSSreset.css" />
+        <option value="$PROJECT_DIR$/KCSWEB/public/css/chess.css" />
+        <option value="$PROJECT_DIR$/KCSWEB/public/portfolio/smile.html" />
+        <option value="$PROJECT_DIR$/KCSWEB/public/css/bordersexample.css" />
+        <option value="$PROJECT_DIR$/KCSWEB/public/portfolio/borders.html" />
+        <option value="$PROJECT_DIR$/KCSWEB/public/portfolio/test.html" />
+        <option value="$PROJECT_DIR$/KCSWEB/public/portfolio/pozicijos.html" />
+        <option value="$PROJECT_DIR$/KCSWEB/public/css/pozisijos.css" />
+        <option value="$PROJECT_DIR$/KCSWEB/public/portfolio/animacija.html" />
+        <option value="$PROJECT_DIR$/KCSWEB/public/css/animcija.css" />
+        <option value="$PROJECT_DIR$/KCSWEB/public/portfolio.html" />
+        <option value="$PROJECT_DIR$/KCSWEB/public/css/firstCSS.css" />
+        <option value="$PROJECT_DIR$/KCSWEB/public/kontaktai.html" />
+        <option value="$PROJECT_DIR$/KCSWEB/public/portfolio/bootstrap.html" />
+        <option value="$PROJECT_DIR$/KCSWEB/public/Project/kcsProject.html" />
+        <option value="$PROJECT_DIR$/KCSWEB/public/javascript/matematika.js" />
+        <option value="$PROJECT_DIR$/KCSWEB/public/index.html" />
+        <option value="$PROJECT_DIR$/KCSWEB/public/Project/index.html" />
+        <option value="$PROJECT_DIR$/KCSWEB/public/Project/jautiena.html" />
+        <option value="$PROJECT_DIR$/KCSWEB/public/Project/kalakutiena.html" />
+        <option value="$PROJECT_DIR$/KCSWEB/public/Project/kiauliena.html" />
+        <option value="$PROJECT_DIR$/KCSWEB/public/Project/kiaulienaKinietiskai.html" />
+        <option value="$PROJECT_DIR$/KCSWEB/public/Project/makaronai.html" />
+        <option value="$PROJECT_DIR$/KCSWEB/public/Project/vegetariski.html" />
+        <option value="$PROJECT_DIR$/KCSWEB/public/Project/Vistienos karis.html" />
+        <option value="$PROJECT_DIR$/KCSWEB/public/Project/vistienosSuktinukai.html" />
+        <option value="$PROJECT_DIR$/KCSWEB/public/Project/vistSuGriet.html" />
+        <option value="$PROJECT_DIR$/KCSWEB/public/Project/vSuAnanasais.html" />
+        <option value="$PROJECT_DIR$/KCSWEB/public/Project/vTacos.html" />
+        <option value="$PROJECT_DIR$/KCSWEB/public/Project/zuvis.html" />
+        <option value="$PROJECT_DIR$/KCSWEB/public/javascript/paveiksliukasOff.js" />
+        <option value="$PROJECT_DIR$/KCSWEB/public/portfolio/chessBoard.html" />
+        <option value="$PROJECT_DIR$/KCSWEB/public/javascript/skaiciuokle.js" />
+        <option value="$PROJECT_DIR$/KCSWEB/public/javascript/paveiksliukas.js" />
+        <option value="$PROJECT_DIR$/KCSWEB/public/Project/vistiena.html" />
+        <option value="$PROJECT_DIR$/KCSWEB/public/css/project.css" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="670" />
+    <option name="width" value="932" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="WEB Paskaitos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WEB Paskaitos" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WEB Paskaitos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WEB Paskaitos" type="462c0819:PsiDirectoryNode" />
+              <item name="KCSWEB" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WEB Paskaitos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WEB Paskaitos" type="462c0819:PsiDirectoryNode" />
+              <item name="KCSWEB" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WEB Paskaitos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WEB Paskaitos" type="462c0819:PsiDirectoryNode" />
+              <item name="KCSWEB" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WEB Paskaitos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WEB Paskaitos" type="462c0819:PsiDirectoryNode" />
+              <item name="KCSWEB" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="javascript" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WEB Paskaitos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WEB Paskaitos" type="462c0819:PsiDirectoryNode" />
+              <item name="KCSWEB" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WEB Paskaitos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WEB Paskaitos" type="462c0819:PsiDirectoryNode" />
+              <item name="KCSWEB" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sarunas\Desktop\Kaunas Coding School\WEB Paskaitos\KCSWEB\public\portfolio" />
+      <recent name="C:\Users\sarunas\Desktop\Kaunas Coding School\WEB Paskaitos\KCSWEB\public\javascript" />
+      <recent name="C:\Users\sarunas\Desktop\Kaunas Coding School\WEB Paskaitos\KCSWEB\public" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
+    <configuration name="bootstrap.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WEB Paskaitos/KCSWEB/public/portfolio/bootstrap.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="chessBoard.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WEB Paskaitos/KCSWEB/public/portfolio/chessBoard.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WEB Paskaitos/KCSWEB/public/Project/index.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WEB Paskaitos/KCSWEB/public/index.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WEB Paskaitos/KCSWEB/public/Project/index.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="kiauliena.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WEB Paskaitos/KCSWEB/public/Project/kiauliena.html">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.bootstrap.html" />
+      <item itemvalue="JavaScript Debug.index.html" />
+      <item itemvalue="JavaScript Debug.kiauliena.html" />
+      <item itemvalue="JavaScript Debug.index.html (1)" />
+      <item itemvalue="JavaScript Debug.chessBoard.html" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html (1)" />
+        <item itemvalue="JavaScript Debug.chessBoard.html" />
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.kiauliena.html" />
+        <item itemvalue="JavaScript Debug.bootstrap.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f51183e7-566b-45c7-9ac8-be1fd1120f55" name="Default Changelist" comment="" />
+      <created>1532966679139</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1532966679139</updated>
+      <workItem from="1532966680686" duration="7617000" />
+      <workItem from="1533051221231" duration="9804000" />
+      <workItem from="1533116317689" duration="16821000" />
+      <workItem from="1533152920526" duration="412000" />
+      <workItem from="1533223140210" duration="10799000" />
+      <workItem from="1533288946534" duration="15176000" />
+      <workItem from="1533308792445" duration="9981000" />
+      <workItem from="1533322998093" duration="2371000" />
+      <workItem from="1533394076213" duration="8852000" />
+      <workItem from="1533478292560" duration="1248000" />
+      <workItem from="1533570265691" duration="6220000" />
+      <workItem from="1533644665533" duration="6704000" />
+      <workItem from="1533655318351" duration="11410000" />
+      <workItem from="1533666858962" duration="498000" />
+      <workItem from="1533715593006" duration="677000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="108590000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="670" y="0" width="932" height="1000" extended-state="1" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.34228188" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.34988454" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16503587" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3290993" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/FirstTask.html" />
+    <entry file="file://$PROJECT_DIR$/KCSWEB/public/WebTask.html" />
+    <entry file="file://$PROJECT_DIR$/KCSWEB/public/WebFirst.html" />
+    <entry file="file://$PROJECT_DIR$/KCSWEB/public/portfolio/smile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KCSWEB/public/css/chess.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KCSWEB/public/portfolio/borders.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KCSWEB/public/portfolio/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="69" selection-start-line="7" selection-start-column="69" selection-end-line="7" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KCSWEB/public/portfolio/pozicijos.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KCSWEB/public/matrix.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KCSWEB/public/css/bordersexample.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KCSWEB/public/portfolio/animacija.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KCSWEB/public/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8364" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KCSWEB/public/portfolio/bootstrap.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KCSWEB/public/kontaktai.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="56" selection-start-line="5" selection-start-column="56" selection-end-line="5" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KCSWEB/public/portfolio.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="5" column="56" selection-start-line="5" selection-start-column="56" selection-end-line="5" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KCSWEB/public/javascript/matematika.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="50" lean-forward="true" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KCSWEB/public/css/animcija.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KCSWEB/public/css/CSSreset.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="8" lean-forward="true" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KCSWEB/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="51" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KCSWEB/public/css/firstCSS.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1343">
+          <caret line="88" column="1" lean-forward="true" selection-start-line="88" selection-start-column="1" selection-end-line="88" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KCSWEB/public/Project/jautiena.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KCSWEB/public/Project/kalakutiena.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KCSWEB/public/Project/kiauliena.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KCSWEB/public/Project/kiaulienaKinietiskai.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KCSWEB/public/Project/vegetariski.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KCSWEB/public/Project/Vistienos karis.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KCSWEB/public/Project/vistienosSuktinukai.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KCSWEB/public/Project/vistSuGriet.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KCSWEB/public/Project/zuvis.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KCSWEB/public/Project/vSuAnanasais.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KCSWEB/public/javascript/paveiksliukasOff.js" />
+    <entry file="file://$PROJECT_DIR$/KCSWEB/public/javascript/skaiciuokle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="93" lean-forward="true" selection-start-line="8" selection-start-column="93" selection-end-line="8" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KCSWEB/public/css/pozisijos.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KCSWEB/public/Project/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KCSWEB/public/Project/vistiena.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="24" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KCSWEB/public/Project/vTacos.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KCSWEB/public/Project/makaronai.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KCSWEB/public/css/project.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KCSWEB/public/portfolio/chessBoard.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="28" selection-start-line="40" selection-start-column="28" selection-end-line="40" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KCSWEB/public/javascript/paveiksliukas.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
